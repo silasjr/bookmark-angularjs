@@ -1,0 +1,11 @@
+<h2 class="page-header">Listagem de Bookmark</h2>
+<div class="bs-callout bs-callout-info">
+  <h4>Bookmark salvos</h4>
+</div>
+<table ng-table="listBookmark" class="table table-condensed table-bordered table-striped">
+   <tr ng-repeat="row in $data">
+      <td data-title="'Id'" sortable="'id'">{{row.id}}</td>
+      <td data-title="'Descrição'">{{row.description}}</td>
+      <td data-title="'Ação'"></td>
+    </tr>
+</table>

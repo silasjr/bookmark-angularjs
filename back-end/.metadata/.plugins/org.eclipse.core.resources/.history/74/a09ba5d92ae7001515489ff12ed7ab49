@@ -1,0 +1,5 @@
+package br.gov.am.prodam.bookmarkws.rest;
+
+public class Api {
+
+}

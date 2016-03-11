@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Thu Mar 10 23:28:09 AMT 2016
+org.eclipse.jst.jee.server\:/binary\:/home/silas/.m2/repository/br/gov/frameworkdemoiselle/demoiselle-servlet/2.5.1/demoiselle-servlet-2.5.1.jar=/home/silas/servers/apache-tomcat-7.0.67/wtpwebapps/bookmark-ws/WEB-INF/lib/demoiselle-servlet-2.5.1.jar
+org.eclipse.jst.jee.server\:/binary\:/home/silas/.m2/repository/br/gov/frameworkdemoiselle/demoiselle-rest/2.5.1/demoiselle-rest-2.5.1.jar=/home/silas/servers/apache-tomcat-7.0.67/wtpwebapps/bookmark-ws/WEB-INF/lib/demoiselle-rest-2.5.1.jar
+org.eclipse.jst.jee.server\:bookmark-ws=/home/silas/servers/apache-tomcat-7.0.67/wtpwebapps/bookmark-ws
+org.eclipse.jst.jee.server\:/binary\:/home/silas/.m2/repository/org/jboss/resteasy/resteasy-cdi/3.0.16.Final/resteasy-cdi-3.0.16.Final.jar=/home/silas/servers/apache-tomcat-7.0.67/wtpwebapps/bookmark-ws/WEB-INF/lib/resteasy-cdi-3.0.16.Final.jar
